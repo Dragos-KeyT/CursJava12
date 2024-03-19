@@ -29,10 +29,9 @@ public class ForVsWhile {
 			System.out.println(i);
 			System.out.println("Please enter a number :");
 			i = scan.nextInt();
-		}
-		
+		}	
 	}
-	
+
 
 	public static void  rezolvareCuFor() {
 		System.out.println("Please enter a number :");
